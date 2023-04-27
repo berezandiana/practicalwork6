@@ -1,2 +1,3 @@
 # practicalwork6
-Practical number 6
+Practical number 6;
+Напишіть програму, яка знаходить максимальне та мінімальне значення в файлі.
